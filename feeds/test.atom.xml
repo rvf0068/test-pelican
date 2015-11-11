@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Olimpiada Hidalguense de Matemáticas</title><link href="http://rvf0068.github.io/test-pelican/" rel="alternate"></link><link href="http://rvf0068.github.io/test-pelican/feeds/all.atom.xml" rel="self"></link><id>http://rvf0068.github.io/test-pelican/</id><updated>2015-02-03T10:20:00-06:00</updated><entry><title>Second</title><link href="http://rvf0068.github.io/test-pelican/second.html" rel="alternate"></link><updated>2015-02-03T10:20:00-06:00</updated><author><name>Rafael Villarroel</name></author><id>tag:rvf0068.github.io,2015-02-03:test-pelican/second.html</id><summary type="html">&lt;h1&gt;Arces tabellis&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Olimpiada Hidalguense de Matemáticas</title><link href="http://rvf0068.github.io/test-pelican/" rel="alternate"></link><link href="http://rvf0068.github.io/test-pelican/feeds/test.atom.xml" rel="self"></link><id>http://rvf0068.github.io/test-pelican/</id><updated>2015-02-03T10:20:00-06:00</updated><entry><title>Second</title><link href="http://rvf0068.github.io/test-pelican/second.html" rel="alternate"></link><updated>2015-02-03T10:20:00-06:00</updated><author><name>Rafael Villarroel</name></author><id>tag:rvf0068.github.io,2015-02-03:test-pelican/second.html</id><summary type="html">&lt;h1&gt;Arces tabellis&lt;/h1&gt;
 &lt;h2&gt;Petit nova lacertos recto frondem Stygiae comitant&lt;/h2&gt;
 &lt;p&gt;Lorem markdownum sparsa! Inquit multaque ante mari Taenarides perenni
 &lt;a href="http://heeeeeeeey.com/"&gt;instantiaque&lt;/a&gt; multa, pars necis columbas patriae; en
@@ -86,4 +86,4 @@ possent tectus Astyages pariter nostris. Fremebant sanguine nexilibusque
 &lt;em&gt;pater&lt;/em&gt;. Cultores possit et Herculis ecquis tellus.&lt;/p&gt;
 &lt;p&gt;Iuvat et dixit: sufficit miram vitamque, moriri producit usus populisque silvas,
 decimo. Pepercit pectora creber amores, cornuaque, Indis &lt;em&gt;venit&lt;/em&gt; Aestas: a ad
-minus!&lt;/p&gt;</summary></entry><entry><title>My First Review</title><link href="http://rvf0068.github.io/test-pelican/my-first-review.html" rel="alternate"></link><updated>2010-12-03T10:20:00-06:00</updated><author><name>Rafael Villarroel</name></author><id>tag:rvf0068.github.io,2010-12-03:test-pelican/my-first-review.html</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</summary></entry></feed>
+minus!&lt;/p&gt;</summary></entry></feed>
