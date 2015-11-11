@@ -35,3 +35,6 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 THEME = "pelican-mockingbird"
+
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ['render_math']
