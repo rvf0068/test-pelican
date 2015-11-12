@@ -37,4 +37,6 @@ DEFAULT_PAGINATION = False
 THEME = "pelican-octopress-theme"
 
 PLUGIN_PATHS = ["plugins"]
+
 PLUGINS = ['render_math']
+
