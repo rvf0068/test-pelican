@@ -52,16 +52,27 @@
       <h1 class="entry-title">Welcome to My Site</h1>
     </header>
     <p>Thank you for visiting. Welcome!</p>
+<p>\LaTeX notation:</p>
+<p>Inline Math: (x^2+y^2). Display Math: [X^2+Y^2.]</p>
+<p>Old notation:</p>
 <p>Inline Math: <span class="math">\(x^2+y^2\)</span>. Display Math: </p>
 <div class="math">$$X^2+Y^2.$$</div>
 <p>For example: </p>
 <div class="math">\begin{equation} \label{eq} X^2. \end{equation}</div>
 <p> Now refer
 to that equation number by Equation (<span class="math">\(\ref{eq}\)</span>).</p>
+<p>Binomial coef: <span class="math">\(\binom{5}{2}\)</span>.</p>
 <p>For example: </p>
 <div class="math">\begin{equation} \label{eq2} Z^2+\sin\theta. \end{equation}</div>
 <p> Now refer
 to that equation number by Equation <span class="math">\((\ref{eq2})\)</span>.</p>
+<p>Align block:</p>
+<div class="math">$$ 
+\begin{align*}
+B(n+1) &amp;=\sum_{k=0}^{n}\binom{n}{k}B(n-k)\\
+       &amp;=\sum_{k=0}^{n}\binom{n}{n-k}B(k)=\sum_{k=0}^{n}\binom{n}{k}B(k).
+\end{align*}
+$$</div>
 <script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
